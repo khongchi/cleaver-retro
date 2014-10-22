@@ -30,3 +30,12 @@ code {
 em {
   border-bottom: 1px solid #666;
 }
+
+blockquote {
+  display: none !important;
+}
+
+strong {
+  color: #d14;
+}
+
